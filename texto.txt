@@ -3,3 +3,5 @@ Segundo
 Terceiro
 Quarta
 Quinta
+Sexta
+Sétima
